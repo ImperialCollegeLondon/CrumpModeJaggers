@@ -1,2 +1,2 @@
 # CMJ
-CMJ simulation and inference
+Crump-Mode-Jaggers branching process simulation and inference
